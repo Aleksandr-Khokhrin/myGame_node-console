@@ -1,4 +1,4 @@
-# myGame_node-console
+# MyGame_node-console
 ![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/8fe8d038-b924-4306-b112-61a35d0786a0)
 
 Описание:
