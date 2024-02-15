@@ -22,6 +22,31 @@
 
 ![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/0809d3bf-038e-4283-a77c-ab8e80ace671)
 
+Логика задачи:
+- Инициализация переменных и проверка аргументов командной строки:
+
+![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/3af9a473-d991-445b-8975-e50cc1094e30)
+
+- Генерация случайного хода компьютера и вычисление HMAC:
+
+![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/20a9573c-2b72-4223-a768-dad2171a6ae3)
+
+- Вывод HMAC и доступные ходы:
+
+![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/560f5276-b200-4620-aba6-38e6b96334f9)
+
+- Функция ввода хода пользователя:
+
+![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/ed305a37-d8a6-4a87-a945-e9cbe7959f48)
+
+- Обработка пользовательского ввода и определение результатов игры:
+
+![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/c4ec7541-2fc9-4170-b892-82267ae081f6)
+
+- Вывод результатов игры и возможность продолжения игры или вывода таблицы:
+
+![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/4b82a13f-5484-4609-b816-6f514d3ac70b)
+
 Инструменты:
 1. crypto (для хеширования и создания HMAC key).
 2. cli-table (для создания таблицы со всеми вариантами).
