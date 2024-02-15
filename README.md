@@ -12,6 +12,7 @@
 ![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/e04fa67d-08bd-4fc2-b792-c5e7c6806579)
 
 Результат игры: 
+
 ![image](https://github.com/Aleksandr-Khokhrin/myGame_node-console/assets/147053338/9b5286ab-f069-4656-8aa4-fbd816cf4840)
 Обратите внимание, что в результатах выдаётся "HMAC key", чтобы можно было проверить честность в вынесении ответа. 
 Основной смысл заключается в том, что компьютер всегда делает ход перед пользователем.
